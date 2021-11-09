@@ -91,13 +91,12 @@
             <artifactId>json</artifactId>
             <version>20200518</version>
         </dependency>
-
+        <!-- https://mvnrepository.com/artifact/de.sciss/ws4j -->
         <dependency>
-            <groupId>com.sciss</groupId>
+            <groupId>de.sciss</groupId>
             <artifactId>ws4j</artifactId>
-            <version>1.0.1</version>
+            <version>0.1.0</version>
         </dependency>
-
 
     </dependencies>
 
